@@ -31,4 +31,8 @@ public class K implements C {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public long ac() {
+        return 333;
+    }
 }

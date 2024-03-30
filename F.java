@@ -31,4 +31,8 @@ public class F implements B {
     public int af() {
         return -1;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
