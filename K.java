@@ -47,4 +47,12 @@ public class K extends null implements C {
     public void ab() {
         System.out.println("\n");
     }
+
+    public float ff() {
+        return 0;
+    }
+
+    public Object pp() {
+        return this;
+    }
 }
