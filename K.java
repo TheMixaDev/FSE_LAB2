@@ -1,4 +1,4 @@
-public class K implements C {
+public class K extends null implements C {
 
     private int e = 42;
 
@@ -30,5 +30,21 @@ public class K implements C {
 
     public void bb() {
         System.out.println(getClass().getName());
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void ab() {
+        System.out.println("\n");
     }
 }
