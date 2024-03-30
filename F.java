@@ -51,4 +51,8 @@ public class F extends null implements B {
     public long ac() {
         return 111;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
