@@ -27,8 +27,4 @@ public class F implements B {
     public Object rr() {
         return null;
     }
-
-    public int af() {
-        return -1;
-    }
 }
