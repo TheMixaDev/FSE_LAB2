@@ -43,4 +43,12 @@ public class F extends null implements B {
     public long ac() {
         return 111;
     }
+    
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object rr() {
+        return null;
+    }
 }
