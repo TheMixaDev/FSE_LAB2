@@ -1,4 +1,4 @@
-public class C extends null {
+public interface C {
 
     int ae();
 
