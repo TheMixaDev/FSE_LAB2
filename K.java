@@ -20,10 +20,6 @@ public class K extends null implements C {
         return null;
     }
 
-    public double ee() {
-        return java.lang.Math.PI;
-    }
-
     public void bb() {
         System.out.println(getClass().getName());
     }
