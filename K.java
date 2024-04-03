@@ -32,10 +32,6 @@ public class K extends null implements C {
         System.out.println(getClass().getName());
     }
 
-    public long ac() {
-        return 333;
-    }
-
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }

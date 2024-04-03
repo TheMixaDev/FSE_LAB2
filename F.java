@@ -35,7 +35,6 @@ public class F extends null implements B {
     public int hh() {
         return new java.util.Random().nextInt();
     }
-
     public Object pp() {
         return this;
     }
