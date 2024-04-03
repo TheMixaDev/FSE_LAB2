@@ -23,4 +23,8 @@ public class K implements C {
     public int af() {
         return -1;
     }
+    
+    public double ee() {
+        return java.lang.Math.PI;
+    }
 }
