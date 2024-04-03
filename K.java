@@ -19,8 +19,4 @@ public class K implements C {
     public Object rr() {
         return null;
     }
-
-    public double ee() {
-        return java.lang.Math.PI;
-    }
 }

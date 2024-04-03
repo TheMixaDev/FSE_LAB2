@@ -19,8 +19,4 @@ public class F implements B {
     public int cc() {
         return 42;
     }
-
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
 }
