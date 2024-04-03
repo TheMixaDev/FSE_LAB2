@@ -55,8 +55,4 @@ public class K extends null implements C {
     public Object pp() {
         return this;
     }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
 }
