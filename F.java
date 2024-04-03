@@ -24,10 +24,6 @@ public class F extends null implements B {
         return new int[]{0, 1, 2, 3, 4};
     }
 
-    public Object rr() {
-        return null;
-    }
-
     public int af() {
         return -1;
     }

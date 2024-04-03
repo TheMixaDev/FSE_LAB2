@@ -24,10 +24,6 @@ public class K extends null implements C {
         return java.lang.Math.PI;
     }
 
-    public int af() {
-        return -1;
-    }
-
     public void bb() {
         System.out.println(getClass().getName());
     }
