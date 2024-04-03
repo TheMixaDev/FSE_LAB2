@@ -42,7 +42,5 @@ public class F extends null implements B {
 
     public float ff() {
         return 0;
-    public int ae() {
-        return java.lang.Math.abs(-7);
     }
 }
