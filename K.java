@@ -28,10 +28,6 @@ public class K extends null implements C {
         return -1;
     }
 
-    public void bb() {
-        System.out.println(getClass().getName());
-    }
-
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
