@@ -1,4 +1,4 @@
-public class F extends null implements B {
+public class F implements B {
 
     private int h = 42;
 
@@ -20,30 +20,6 @@ public class F extends null implements B {
         return 42;
     }
 
-    public int af() {
-        return -1;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public Object pp() {
-        return this;
-    }
-
-    public float ff() {
-        return 0;
-    }
-
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
-
-    public long ac() {
-        return 111;
-    }
-    
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
